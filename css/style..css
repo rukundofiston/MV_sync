@@ -1,0 +1,67 @@
+.task-header{
+	padding: 5px;
+	height: 110px;
+}
+.left{
+	float: left;
+}
+.right{
+	float:right;
+}
+.right a{
+	margin-bottom: 5px;
+}
+.medium-button{
+	width: 25%;
+}
+.profil-pic{
+	height: 80px;
+	width: 80px;
+}
+.desktop-icon{
+	text-align: center;
+	
+}
+.tasks, .pills, .doctors{
+    padding-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+
+	
+        display: inline-block;
+}
+.tasks{
+	background: url("../images/icons/calendar.png") no-repeat;
+        background-position: center center;
+}
+.pills{
+	background: url("../images/icons/pill_.png") no-repeat;
+        background-position: center center;
+}
+.doctors{
+	background: url("../images/icons/doctor.png") no-repeat;
+        background-position: center center;
+}
+.desktop{
+	height: 100%;
+}
+.desktop-icon span{
+	float: left;
+}
+.task-description{
+	float: left;
+	margin-left: 20px
+}
+.task-drugs{
+	margin-top: 20px;
+}
+.empty-drugs{
+	margin-top: 40px;
+	background: url("../images/bg.png");
+	height: 50px;
+}
+.note{
+}
+.clear{
+	clear: both;
+}

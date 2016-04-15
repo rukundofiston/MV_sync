@@ -1,0 +1,40 @@
+.dialogue{
+	display: none;
+}
+.loader{
+    display: none;
+    margin-left: 45%;
+}
+.load{
+	display: none;
+	margin-left: 40%;
+}
+#btn_fermer_voir_demande{
+	margin-left: 18%;
+}
+#content_dlg{
+	display:none;
+}
+.status {
+	font-size: 11px;
+	height: 16px;
+	width: 70px;
+	margin: auto;
+	text-align : center;
+	color : #000;
+	border-radius: 7px 7px 7px 7px;
+	cursor: pointer;
+}
+.en_cours{
+	background: url(../../images/en_cours.png) no-repeat #339FFA;
+}
+.non_vue{
+	background: url(../../images/non_vue.png) no-repeat #4A4A4A;
+	color : white;
+}
+.accept{
+	background: url(../../images/accept.png) no-repeat #80D001;
+}
+.refus{
+	background: url(../../images/refus.png) no-repeat #FF42FC;
+}

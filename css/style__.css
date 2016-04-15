@@ -1,0 +1,134 @@
+.task-header{
+	padding: 5px;
+	height: 110px;
+}
+.left{
+	float: left;
+}
+.right{
+	float:right;
+}
+.right a{
+	margin-bottom: 5px;
+}
+.medium-button{
+	width: 25%;
+}
+.profil-pic{
+	height: 80px;
+	width: 80px;
+}
+.desktop-icon{
+	text-align: center;
+	margin: 10px;
+	height: 64px;
+	width: 64px;
+}
+.tasks, .pills, .doctors, .stats, .reports, .events{
+	height: 48px;
+	width: 48px;
+}
+.tasks{
+	background: url("../images/icons/calendar.png") no-repeat;
+}.reports{
+	background: url("../images/icons/reports.png") no-repeat;
+}
+.pills{
+	background: url("../images/icons/pill_.png") no-repeat;
+}
+.doctors{
+	background: url("../images/icons/doctor.png") no-repeat;
+}
+.stats{
+	background: url("../images/icons/statistics.png") no-repeat;
+}
+.events{
+		background: url("../images/icons/events.png") no-repeat;
+}
+.desktop{
+	height: 100%;
+}
+.desktop-icon span{
+	float: left;
+}
+.task-description{
+	float: left;
+	margin-left: 20px
+}
+.task-drugs{
+	margin-top: 20px;
+}
+.empty-drugs{
+	margin-top: 40px;
+	background: url("../images/bg.png");
+	height: 50px;
+}
+.note{
+}
+.clear{
+	clear: both;
+}
+.display-none{
+	display:none;
+}
+.blue{
+	background: #4386d4;
+}
+.loading{
+	background: url("../images/loading.gif");
+	margin: 1px auto;
+	height: 46px;
+	width: 46px;
+	display: none;
+}
+.desktop{
+	background: url("../images/bg.jpg");
+	background-size: cover;
+	overflow: visible;
+}
+.parag{
+	padding: 10px;
+}
+#logo{
+	background: url("../images/logo0.png");
+	height: 221px;
+	width : 200px;
+	margin: auto;
+}
+.vertical-align-center{
+	margin: auto;
+}
+#logfrm input{
+	margin-bottom: 10px;
+	background: #FFF;
+	color : #000;
+	border-radius: 4px;
+}
+.form{
+	margin-top: 7px;
+	padding: 10px;
+	background: rgba(255, 255,255, 0.2);
+	border-radius: 12px;
+}
+.error{
+	color: #F56;
+}
+.notifications{
+	border-radius: 6px;
+	border: 1px solid #000;
+	background: rgba(0,0,0,0.2);
+	padding-top: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 0;
+}
+.notifications li{
+	padding: 5px;
+	height: 30px;
+	color: #333;
+	list-style-type: none;
+	border-top: 1px solid #000;
+}
+.notifications li:first-child{
+	border-top: 0px solid #000;
+}

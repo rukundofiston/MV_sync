@@ -1,0 +1,26 @@
+.loader{
+	margin-left: 45%;
+	display:none;
+		}
+.dialogue{
+	display:none;
+}
+#uploads{
+	width: 300px;
+	margin: auto;
+	height: 200px;
+	border: 4px dashed gray;
+	position: relative;
+	border-radius: 10px 10px 10px 10px;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	color: gray;
+}
+.image{
+	width: 400px;
+	height: 200px;
+}
+#uploads p{
+	padding-top: 80px;
+}
